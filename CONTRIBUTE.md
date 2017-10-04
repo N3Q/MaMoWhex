@@ -78,6 +78,9 @@ The following abbrevations are often used, that's why they're wanted to be used:
   * MOD: Stands for *modifing* (parts of) Code, Documentation or Comments
   * ADD: Stands for *adding* (parts of) Code, Documentation or Comments
   
+  * MENT: Stands for *mentioned*.
+  
   * RED: Stands for *redundant*
   * DOC: Stands for *Documentation*
   * COM: Stands for *Comment*
+  * DESC: Stands for *Description*
