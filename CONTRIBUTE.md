@@ -62,11 +62,18 @@ M:p.(f1/CodeOpt> (RM RED Code, Removed outcommented code); f2/CQA> RE DOC).
 ### Abbrevations
 All Abbrevations appearing should be found here, if some is missing it should be added immediately.
 #### Modules
+The following Modules are present in the project, that's why they are wanted to be shortened, to be used in
+commit messages:
+ * ROOT: The *root* folder of the Repository, where the Modules etc. are stored.
+ 
 #### Reasons
 The following Reasons are explained:
   * CodeOpt: Stands for *Code Optimization* and should be used, when the code is optimized.
   * CQA: Stands for *Code Quality Assurance* and should be used, if the quality of the code is improved.
+  * QA: Stands for *Quality Assurance* and should be used, if the unspecific quality is improved.
+  
 #### Messages
+The following abbrevations are often used, that's why they're wanted to be used:
   * RM: Stands for *removing* (parts of Code), Documentation or Comments
   * MOD: Stands for *modifing* (parts of) Code, Documentation or Comments
   * ADD: Stands for *adding* (parts of) Code, Documentation or Comments
